@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Remote Control</string>
+    <string name="app_name">Income</string>
     <string name="balance_label">Your Balance</string>
     <string name="refer_title">Refer and Earn</string>
     <string name="refer_desc">Per refer 50 Taka</string>
