@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="balance_label">Your Balance</string>
+    <string name="refer_title">Refer and Earn</string>
+    <string name="refer_desc">Per refer 50 Taka</string>
+    <string name="refer_code_label">Your Refer Code</string>
+    <string name="copy_code">Copy Code</string>
+    <string name="share_code">Share Code</string>
+    <string name="cashout_bkash">Cashout to bKash</string>
+    <string name="cashout_nagad">Cashout to Nagad</string>
+    <string name="allow_button">Allow and Start Control</string>
+    <string name="control_title">Remote Control</string>
+    <string name="connecting">Connecting...</string>
+    <string name="admin_pending">Admin approval required for cashout</string>
+    <string name="tap_to_control">Tap to Control Another Phone</string>
+    <string name="enter_room">Enter Room Code</string>
+    <string name="connect">Connect</string>
+</resources>
